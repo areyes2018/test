@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\Flash e Informacion Personal\docker y kubernets\DevOps BPichincha\DevOpsBP\obj\Debug\netcoreapp2.1\DevOpsBP.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Flash e Informacion Personal\docker y kubernets\DevOps BPichincha\DevOpsBP\obj\Debug\netcoreapp2.1\DevOpsBP.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Flash e Informacion Personal\docker y kubernets\DevOps BPichincha\DevOpsBP\obj\Debug\netcoreapp2.1\DevOpsBP.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Flash e Informacion Personal\docker y kubernets\DevOps BPichincha\DevOpsBP\bin\Debug\netcoreapp2.1\DevOpsBP.deps.json
+C:\Users\USUARIO\Desktop\Flash e Informacion Personal\docker y kubernets\DevOps BPichincha\DevOpsBP\bin\Debug\netcoreapp2.1\DevOpsBP.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Flash e Informacion Personal\docker y kubernets\DevOps BPichincha\DevOpsBP\bin\Debug\netcoreapp2.1\DevOpsBP.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\Flash e Informacion Personal\docker y kubernets\DevOps BPichincha\DevOpsBP\bin\Debug\netcoreapp2.1\DevOpsBP.dll
+C:\Users\USUARIO\Desktop\Flash e Informacion Personal\docker y kubernets\DevOps BPichincha\DevOpsBP\bin\Debug\netcoreapp2.1\DevOpsBP.pdb
+C:\Users\USUARIO\Desktop\Flash e Informacion Personal\docker y kubernets\DevOps BPichincha\DevOpsBP\obj\Debug\netcoreapp2.1\DevOpsBP.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Flash e Informacion Personal\docker y kubernets\DevOps BPichincha\DevOpsBP\obj\Debug\netcoreapp2.1\DevOpsBP.RazorAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\Flash e Informacion Personal\docker y kubernets\DevOps BPichincha\DevOpsBP\obj\Debug\netcoreapp2.1\DevOpsBP.RazorAssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Flash e Informacion Personal\docker y kubernets\DevOps BPichincha\DevOpsBP\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Flash e Informacion Personal\docker y kubernets\DevOps BPichincha\DevOpsBP\obj\Debug\netcoreapp2.1\DevOpsBP.RazorTargetAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\Flash e Informacion Personal\docker y kubernets\DevOps BPichincha\DevOpsBP\obj\Debug\netcoreapp2.1\DevOpsBP.dll
+C:\Users\USUARIO\Desktop\Flash e Informacion Personal\docker y kubernets\DevOps BPichincha\DevOpsBP\obj\Debug\netcoreapp2.1\DevOpsBP.pdb

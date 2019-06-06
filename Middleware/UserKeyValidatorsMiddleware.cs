@@ -30,11 +30,11 @@ namespace DevOpsBP.Middleware
             }
             else
             {
-                if (key == (context.Request.Headers["X-Parse-REST-API-Key"]))
+                if (key != (context.Request.Headers["X-Parse-REST-API-Key"]))
                 {
-                    //context.Response.StatusCode = 401; //UnAuthorized
-                    //await context.Response.WriteAsync("Invalid User Key");
-                    //return;
+                    context.Response.StatusCode = 401; //UnAuthorized
+                    await context.Response.WriteAsync("Invalid User Key");
+                    return;
                     
                 }
             }

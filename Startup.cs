@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using DevOpsBP.Middleware;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -41,7 +42,10 @@ namespace DevOpsBP
             }
 
             app.UseHttpsRedirection();
+            app.UseMiddleware<UserKeyValidatorsMiddleware>();
             app.UseMvc();
+
+
         }
     }
 }

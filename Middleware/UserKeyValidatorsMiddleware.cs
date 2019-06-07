@@ -10,7 +10,7 @@ namespace DevOpsBP.Middleware
 
     public class UserKeyValidatorsMiddleware
     {
-        const string key = "2f5ae96c-b558-4c7b-a590-a501ae1c3f6c";
+        private const string key = "2f5ae96c-b558-4c7b-a590-a501ae1c3f6c";
         private readonly RequestDelegate _next;
         //private IContactsRepository ContactsRepo { get; set; }
 

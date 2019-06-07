@@ -19,8 +19,9 @@ namespace DevOpsBP
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>()
-                .UseUrls("https://localhost:443/");
+            .UseSetting("https_port", "8080")
+                .UseStartup<Startup>();
+              
     }
 }
 
